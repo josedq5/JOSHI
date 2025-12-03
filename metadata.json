@@ -1,0 +1,5 @@
+{
+  "name": "GymTracker AI",
+  "description": "Una aplicación avanzada para registrar entrenamientos de gimnasio (Pecho, Pierna, Espalda), visualizar progreso con gráficos y recibir consejos de entrenador personal mediante IA.",
+  "requestFramePermissions": []
+}
